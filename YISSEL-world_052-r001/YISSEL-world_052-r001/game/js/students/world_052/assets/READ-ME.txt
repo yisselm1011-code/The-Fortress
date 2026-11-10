@@ -1,0 +1,1 @@
+Save your generated art/sound here. Log each prompt, actual date, exact model and output link. Teacher checks dimensions and integrates the asset; a saved file does not display automatically.

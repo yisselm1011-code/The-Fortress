@@ -1,0 +1,15 @@
+{
+  "id": "world_052",
+  "name": "YISSEL — Starter Project",
+  "author": "Teacher starter for YISSEL",
+  "description": "Recover the repair core, clear two turrets and reach the exit.",
+  "iconColor": "yellow",
+  "position": {
+    "x": 640,
+    "y": 320
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_052_level",
+  "rewardId": "key_world_052"
+}
