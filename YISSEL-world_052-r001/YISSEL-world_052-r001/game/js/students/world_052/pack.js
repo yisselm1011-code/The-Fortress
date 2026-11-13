@@ -75,7 +75,7 @@ registerStudentPack({
     "mission": {
       "speaker": "Mechanic",
       "lines": [
-        "Hold F to fire. Aim with I/up, J/left, K/down, L/right; combine for diagonals.",
+        "hello! Hold F to fire. Aim with I/up, J/left, K/down, L/right; combine for diagonals.",
         "Without aim keys you shoot where you face. Move with WASD or arrows.",
         "Walk around cover; this mode has no jumping.",
         "Turrets flash yellow before firing. Their pink shots hurt; cyan shots are yours.",
